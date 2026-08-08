@@ -7,8 +7,7 @@ The portfolio is designed with a clean dark-themed UI, smooth animations, respon
 ---
 
 ## 🌐 Live Demo
-
-[[View My Portfolio](YOUR_LIVE_DEMO_URL)](https://vedant-portfolio-murex.vercel.app/)
+(https://vedant-portfolio-murex.vercel.app/)
 
 ---
 
